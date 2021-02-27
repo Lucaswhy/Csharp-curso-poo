@@ -5,6 +5,11 @@ namespace PrimeiroProjeto {
     class Program {
         static void Main(string[] args) {
 
+<<<<<<< HEAD
+=======
+            //Teste de Commit 3.0
+
+>>>>>>> 64657d628d626990a8fa9197018c36873d642de6
             string produto1 = "Computador";
             string produto2 = "Mesa de escritório";
 
