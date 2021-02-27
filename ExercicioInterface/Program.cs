@@ -36,7 +36,7 @@ namespace ExercicioInterface {
             Console.WriteLine(contract.ToString());
 
 
-
+            
         }
     }
 }
