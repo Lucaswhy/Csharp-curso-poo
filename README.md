@@ -5,4 +5,4 @@ Um curso de POO com C# completo pelo professor Nélio Alves. Há exercícios de 
 Dou destaque no "ExercicioEnum"
 
 
-by: Lucas Herculano Rodrigues
+by: Lucas Herculano
